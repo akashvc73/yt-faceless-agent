@@ -1,0 +1,32 @@
+{
+  "voice_id": "aurora",
+  "language": "en",
+  "cadence": {
+    "long_form_per_week": 1,
+    "shorts_per_week": 7
+  },
+  "niches": {
+    "primary": [
+      {
+        "name": "History explainers / narrow documentaries",
+        "priority": 1,
+        "notes": "High Education/Science RPM, strong views-per-sub, excellent AI image fit for maps and reconstructions"
+      },
+      {
+        "name": "Science & space explainers",
+        "priority": 1,
+        "notes": "High Shorts potential, evergreen concepts, clean policy profile"
+      }
+    ],
+    "secondary": [
+      {
+        "name": "Business / company rise-and-fall stories",
+        "priority": 2,
+        "notes": "Good RPM, narrative format works well with slideshow"
+      }
+    ]
+  },
+  "production_style": "AI images + Ken Burns + Aurora narration + burned captions",
+  "budget": "zero",
+  "last_updated": "2026-11-24"
+}
